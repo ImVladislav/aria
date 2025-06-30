@@ -121,7 +121,7 @@ const Links = () => {
               },
             }}
           >
-            <a href='https://x.com/mwah_coin' target='_blank'>
+            <a href='https://x.com/TheAriaCoin' target='_blank'>
               <img src='/twitter.png' width={80} height={80} />
             </a>
           </Box>
