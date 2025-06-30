@@ -449,7 +449,7 @@ const Banner = () => {
         <Box
           component='a'
           target='_blank'
-          href='https://x.com/TheAriaCloud'
+          href='https://x.com/TheAriaCoin'
           sx={{
             img: { transition: "0.4s" },
             ":hover": {
